@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EsThread_Incre-Decre/1.0.0": {
+        "runtime": {
+          "EsThread_Incre-Decre.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EsThread_Incre-Decre/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

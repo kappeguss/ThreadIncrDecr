@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\EsThread_Incre-Decre\obj\Debug\net6.0-windows\EsThread_Incre_Decre.Form1.resources
+C:\Users\user\source\repos\EsThread_Incre-Decre\obj\Debug\net6.0-windows\EsThread_Incre-Decre.csproj.GenerateResource.cache
+C:\Users\user\source\repos\EsThread_Incre-Decre\obj\Debug\net6.0-windows\EsThread_Incre-Decre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\EsThread_Incre-Decre\obj\Debug\net6.0-windows\EsThread_Incre-Decre.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EsThread_Incre-Decre\obj\Debug\net6.0-windows\EsThread_Incre-Decre.AssemblyInfo.cs
+C:\Users\user\source\repos\EsThread_Incre-Decre\obj\Debug\net6.0-windows\EsThread_Incre-Decre.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EsThread_Incre-Decre\bin\Debug\net6.0-windows\EsThread_Incre-Decre.exe
+C:\Users\user\source\repos\EsThread_Incre-Decre\bin\Debug\net6.0-windows\EsThread_Incre-Decre.deps.json
+C:\Users\user\source\repos\EsThread_Incre-Decre\bin\Debug\net6.0-windows\EsThread_Incre-Decre.runtimeconfig.json
+C:\Users\user\source\repos\EsThread_Incre-Decre\bin\Debug\net6.0-windows\EsThread_Incre-Decre.dll
+C:\Users\user\source\repos\EsThread_Incre-Decre\bin\Debug\net6.0-windows\EsThread_Incre-Decre.pdb
+C:\Users\user\source\repos\EsThread_Incre-Decre\obj\Debug\net6.0-windows\EsThread_Incre-Decre.dll
+C:\Users\user\source\repos\EsThread_Incre-Decre\obj\Debug\net6.0-windows\refint\EsThread_Incre-Decre.dll
+C:\Users\user\source\repos\EsThread_Incre-Decre\obj\Debug\net6.0-windows\EsThread_Incre-Decre.pdb
+C:\Users\user\source\repos\EsThread_Incre-Decre\obj\Debug\net6.0-windows\EsThread_Incre-Decre.genruntimeconfig.cache
+C:\Users\user\source\repos\EsThread_Incre-Decre\obj\Debug\net6.0-windows\ref\EsThread_Incre-Decre.dll
